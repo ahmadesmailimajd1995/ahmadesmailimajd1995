@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [allbayan](https://allbayan.ir/)
 
-- 🌱 I’m currently learning how to use AI APIs, cloud services (like Firebase & AWS), and advanced JavaScript to build smarter and faster WordPress-based web apps. **wordpress , laravel, courser**
+- 🌱 I’m currently learning how to use AI APIs, cloud services (like Firebase & AWS), and advanced JavaScript to build smarter and faster WordPress-based web apps. **wordpress , laravel, cursor**
 
 - 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/ahmad-esmaili-301812234/](https://www.linkedin.com/in/ahmad-esmaili-301812234/)
 
